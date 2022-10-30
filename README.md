@@ -21,7 +21,7 @@
 - VS Code Community Version
 
   - Download it from [here](https://visualstudio.microsoft.com/) <br>
-    ![alt](https://github.com/saha-indranil/Face-Recognition-Attandance-System/blob/main/readme_images/vs_code_comm.jpg)
+    <img src="https://github.com/saha-indranil/Face-Recognition-Attandance-System/blob/main/readme_images/vs_code_comm.jpg" width="300"/>
 
 - Now, run these commands in Terminal
 
