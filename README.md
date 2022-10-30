@@ -9,19 +9,19 @@
     ```
     python --version
     ```
-    ![alt]()
+    ![alt](https://github.com/saha-indranil/Face-Recognition-Attandance-System/blob/main/readme_images/python_version.png)
 
 - Install CMake
 
   - Download CMake from [here](https://cmake.org/download/) <br>
-    ![alt]()
+    ![alt](https://github.com/saha-indranil/Face-Recognition-Attandance-System/blob/main/readme_images/cmake_download.png)
   - Install & Add to Path fro all users <br>
-    ![alt]()
+    ![alt](https://github.com/saha-indranil/Face-Recognition-Attandance-System/blob/main/readme_images/cmake_add_path.png)
 
 - VS Code Community Version
 
   - Download it from [here](https://visualstudio.microsoft.com/) <br>
-    ![alt]()
+    ![alt](https://github.com/saha-indranil/Face-Recognition-Attandance-System/blob/main/readme_images/vs_code_comm.png)
 
 - Now, run these commands in Terminal
 
