@@ -18,7 +18,7 @@
 
 - VS Code Community Version
 
-  - Download it from [here] and add **Desktop Development with C++**(https://visualstudio.microsoft.com/) <br>
+  - Download it from [here](https://visualstudio.microsoft.com/) and add **Desktop Development with C++** <br>
     <img src="https://github.com/saha-indranil/Face-Recognition-Attandance-System/blob/main/readme_images/vs_code_comm.jpg" width="270"/> <img src="https://github.com/saha-indranil/Face-Recognition-Attandance-System/blob/main/readme_images/desktop_development_with_cpp.png" width="270"/>
 
 - Now, run these commands in Terminal
