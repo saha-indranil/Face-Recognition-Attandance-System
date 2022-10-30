@@ -14,14 +14,14 @@
 - Install CMake
 
   - Download CMake from [here](https://cmake.org/download/) <br>
-    ![alt](https://github.com/saha-indranil/Face-Recognition-Attandance-System/blob/main/readme_images/cmake_download.jpg)
+    <img src="https://github.com/saha-indranil/Face-Recognition-Attandance-System/blob/main/readme_images/cmake_download.jpg" width="270"/>
   - Install & Add to Path fro all users <br>
-    ![alt](https://github.com/saha-indranil/Face-Recognition-Attandance-System/blob/main/readme_images/cmake_add_path.jpg)
+    <img src="https://github.com/saha-indranil/Face-Recognition-Attandance-System/blob/main/readme_images/cmake_add_path.jpg" width="270"/>
 
 - VS Code Community Version
 
   - Download it from [here](https://visualstudio.microsoft.com/) <br>
-    <img src="https://github.com/saha-indranil/Face-Recognition-Attandance-System/blob/main/readme_images/vs_code_comm.jpg" width="300"/>
+    <img src="https://github.com/saha-indranil/Face-Recognition-Attandance-System/blob/main/readme_images/vs_code_comm.jpg" width="270"/>
 
 - Now, run these commands in Terminal
 
