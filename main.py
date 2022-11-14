@@ -1,20 +1,21 @@
-from datetime import datetime
 import cv2
 import numpy as np
 import face_recognition
 import os
+from datetime import datetime
+
 
 path = 'Attandance Images'
 images = []
 classNames = []
 myList = os.listdir(path)
-print(myList)
+# print(myList)
 
 for cls in myList:
     curImg = cv2.imread(f'{path}/{cls}')
     images.append(curImg)
     classNames.append(os.path.splitext(cls)[0])
-print(classNames)
+# print(classNames)
 
 
 def findEncodings(images):
@@ -42,7 +43,6 @@ def markAttandance(name):
 
 encodeListKnown = findEncodings(images)
 print("Encoding Complete")
-
 
 cap = cv2.VideoCapture(0)
 while True:
